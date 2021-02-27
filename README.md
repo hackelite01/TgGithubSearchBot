@@ -22,7 +22,7 @@ npm install
 ```bash
 npm start
 ```
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hackelite01/TgGithubSearchBot)
 
 ## Ideas || Issues
 Just fill an issue and describe it. I'll check it ASAP!
